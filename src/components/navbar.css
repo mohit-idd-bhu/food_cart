@@ -1,0 +1,16 @@
+.navbar{
+    font-size:large;
+    width: 100%;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    background-color: #D70F64;
+    color: white;
+    border: 0;
+}
+
+.company-title{
+    text-align: left;
+    vertical-align: bottom;
+    height: auto;
+}

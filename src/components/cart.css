@@ -1,0 +1,7 @@
+.store-number{
+    display: inline;
+    margin: 2px;
+    padding: 2.5px;
+    background-color: rgba(150, 0, 137, 0.575);
+    border-radius: 25px;
+}

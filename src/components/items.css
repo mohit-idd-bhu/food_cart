@@ -1,0 +1,13 @@
+.item-list{
+    padding: 10px;
+    margin-top: 2rem;
+    border: 1px solid black;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 10px;
+    background-color: rgba(255,255,255,0.8);
+}
+.order-value{
+    text-align: right;
+    font-weight: bold;
+    margin-right: 50px;
+}

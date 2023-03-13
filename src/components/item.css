@@ -1,0 +1,16 @@
+.item{
+    width: 100%;
+    border-width: 0px 0px 1px 0px;
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.item div{
+    width: 100%;
+    text-align: center;
+}
+
+h4,h2{
+    padding: 1px;
+}
